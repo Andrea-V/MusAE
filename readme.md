@@ -1,6 +1,6 @@
 # MusAE: Adversarial Autoencoder for Symbolic Music Generation
 
-This repository provides the Python implementation of MusAE, an [Adversarial Autoencoder](https://arxiv.org/abs/1511.05644) able to generate and modify musical MIDI sequences in a meaningful way. This model is written in Keras, using TensorFlow backend. You can learn more about MusAE by consulting my master's thesis on my [LinkedIn profile](https://www.linkedin.com/in/avalenti93/). You can also listen to some of the results that I've uploaded on [my YouTube channel](https://www.youtube.com/playlist?list=PLxrPCQsIK9XVVpTIun9meuPcOdWaG-aSg).
+This repository provides the Python implementation of MusAE, an [Adversarial Autoencoder](https://arxiv.org/abs/1511.05644) able to generate and modify musical MIDI sequences in a meaningful way. This model is written in Keras, using TensorFlow backend. You can learn more about MusAE by consulting my Master's thesis on [my LinkedIn profile](https://www.linkedin.com/in/avalenti93/). You can also listen to some of the results that I've uploaded on [my YouTube channel](https://www.youtube.com/playlist?list=PLxrPCQsIK9XVVpTIun9meuPcOdWaG-aSg).
 
 ## Getting Started
 
@@ -15,7 +15,7 @@ The main dependencies are:
 - Keras 2.2.2
 - TensorFlow 1.12
 
-plus a number of other python libraries. You should be able to install everything via pip (using a separate environment is highly recommended). 
+plus a number of other python libraries. You should be able to install everything via pip (using a separate conda environment is highly recommended). 
 
 ## Usage
 
