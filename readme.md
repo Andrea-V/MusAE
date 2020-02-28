@@ -1,6 +1,6 @@
 # MusÆ: Adversarial Autoencoder for learning style-aware Music representations.
 
-This repository provides the Python implementation of MusAE, an [Adversarial Autoencoder](https://arxiv.org/abs/1511.05644) able to generate and modify musical MIDI sequences in a meaningful way. This model is written in Keras, using TensorFlow backend. You can learn more about MusAE by consulting my Master's thesis on [my LinkedIn profile](https://www.linkedin.com/in/avalenti93/). You can also listen to some of the results that I've uploaded on [my YouTube channel](https://www.youtube.com/playlist?list=PLxrPCQsIK9XVVpTIun9meuPcOdWaG-aSg).
+This repository provides the Python implementation of MusAE, an [Adversarial Autoencoder](https://arxiv.org/abs/1511.05644) able to generate and modify musical MIDI sequences in a meaningful way. This model is written in Keras, using TensorFlow backend. You can learn more about MusAE by consulting the corresponding paper on the [ArXiv](https://arxiv.org/abs/2001.05494). You can also listen to some of the results that I've uploaded on [my YouTube channel](https://www.youtube.com/playlist?list=PLxrPCQsIK9XVVpTIun9meuPcOdWaG-aSg).
 
 ## Getting Started
 
